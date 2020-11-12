@@ -1,7 +1,7 @@
 #include <iostream>
 #include <random>
 
-#include "../include/ThreadPool.h"
+#include "mytheadpool.h"
 
 std::random_device rd;
 std::mt19937 mt(rd());
